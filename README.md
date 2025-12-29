@@ -29,7 +29,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/discord-clone.git
+git clone https://github.com/GERnguyen/discord-clone.git
 ```
 
 ### Install packages
